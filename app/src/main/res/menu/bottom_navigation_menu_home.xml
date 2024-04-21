@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item android:id="@+id/chats"
+            android:title="@string/chats"
+            android:icon="@drawable/chats_bold_svgrepo_com"
+            app:showAsAction="always" />
+
+        <item android:id="@+id/updates"
+            android:title="@string/updates"
+            android:icon="@drawable/img_updates"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/communities"
+            android:title="@string/communities"
+            android:icon="@drawable/img_communities"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/calls"
+            android:title="@string/calls"
+            android:icon="@drawable/img_calls"
+            app:showAsAction="always"/>
+    </group>
+</menu>
