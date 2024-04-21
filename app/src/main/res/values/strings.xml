@@ -11,4 +11,6 @@
     <string name="rachit">Rachit</string>
     <string name="message">Message</string>
     <string name="_19_04_24">19/04/24</string>
+    <string name="select_contacts">Select Contacts</string>
+    <string name="_100_contacts">100 contacts</string>
 </resources>
